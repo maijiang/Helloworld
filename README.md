@@ -55,5 +55,6 @@ MainActivity.java
 --
 1.Helloworld
 ![Image text](https://github.com/maijiang/Helloworld/blob/master/hello.PNG)
+    <br>
 2.生命周期
 ![Image text](https://github.com/maijiang/Helloworld/blob/master/act_life.PNG)
