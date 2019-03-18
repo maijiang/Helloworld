@@ -1,6 +1,7 @@
 # Helloworld
-==
+
 1.运行Helloworld,验证Activity的生命周期
+--
 MainActivity.java
 --
     package com.example.lenovo.helloworld;
@@ -52,4 +53,7 @@ MainActivity.java
     }
 运行结果：
 --
-![Image text]
+1.Helloworld
+![Image text](https://github.com/maijiang/Helloworld/blob/master/hello.PNG)
+2.生命周期
+![Image text](https://github.com/maijiang/Helloworld/blob/master/act_life.PNG)
